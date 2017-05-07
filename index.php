@@ -4,8 +4,6 @@
   <meta charset="UTF-8">
   <title>Réservations tickets Cannes</title>
   <script src="bower_components/angular/angular.js"></script>
-  <script src="bower_components/angular-foundation-6/dist/angular-foundation.min.js"></script>
-  <script src="bower_components/angular-route/angular-route.min.js"></script>
   <script src="js/app.js"></script></script>
   <link rel="stylesheet" href="css/bootstrap.min.css" />
   <link rel="stylesheet" href="css/style.css" />
