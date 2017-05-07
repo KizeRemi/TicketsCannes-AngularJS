@@ -1,0 +1,9 @@
+{
+  "name": "TicketsCannes",
+  "dependencies": {
+    "angular": "^1.6.4"
+  },
+  "resolutions": {
+    "angular": "^1.6.0"
+  }
+}

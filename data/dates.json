@@ -1,0 +1,444 @@
+[
+	{
+		"date" : "2016-05-14",
+		"salles": [
+			{
+				"nom": "Debussy",
+				"seances":[
+					{
+						"titre": "Agassi",
+						"realisateur": "Chan-Wook Park",
+						"heure": "08:30",
+						"duree": "02:25",
+						"demande": false
+					}
+				]
+			},
+			{
+				"nom": "Lumière",
+				"seances":[
+					{
+						"titre": "Agassi",
+						"realisateur": "Chan-Wook Park",
+						"heure": "08:30",
+						"duree": "02:25",
+						"demande": false
+					},
+					{
+						"titre": "The BFG",
+						"realisateur": "Steven Spielberg",
+						"heure": "11:45",
+						"duree": "01:55",
+						"demande": false
+					},
+					{
+						"titre": null
+					},
+					{
+						"titre": null
+					},
+					{
+						"titre": "The BFG",
+						"realisateur": "Steven Spielberg",
+						"heure": "19:00",
+						"duree": "01:55",
+						"demande": true
+					},
+					{
+						"titre": "Agassi",
+						"realisateur": "Chan-Wook Park",
+						"heure": "22:00",
+						"duree": "02:25",
+						"demande": false
+					},
+					{
+						"titre": null
+					}				
+				]
+			}		
+		]
+	},
+	{
+		"date" : "2016-05-15",
+		"salles": [
+			{
+				"nom": "Debussy",
+				"seances":[
+					{
+						"titre": "Mal de pierres",
+						"realisateur": "Nicole Garcia",
+						"heure": "08:30",
+						"duree": "02:00",
+						"demande": false
+					}
+				]
+			},
+			{
+				"nom": "Lumière",
+				"seances":[
+					{
+						"titre": "Mal de pierres",
+						"realisateur": "Nicole Garcia",
+						"heure": "08:30",
+						"duree": "02:00",
+						"demande": false
+					},
+					{
+						"titre": "Mal de pierres",
+						"realisateur": "Nicole Garcia",
+						"heure": "11:30",
+						"duree": "02:00",
+						"demande": false
+					},
+					{
+						"titre": null
+					},
+					{
+						"titre": "American Honey",
+						"realisateur": "Andrea Arnold",
+						"heure": "15:30",
+						"duree": "02:42",
+						"demande": true
+					},	
+					{
+						"titre": "Mal de pierres",
+						"realisateur": "Nicole Garcia",
+						"heure": "19:30",
+						"duree": "02:00",
+						"demande": true
+					},
+					{
+						"titre": "The nice guys",
+						"realisateur": "Shane Black",
+						"heure": "22:30",
+						"duree": "01:56",
+						"demande": false
+					},
+					{
+						"titre": null
+					}						
+				]
+			}		
+		]
+	},
+	{
+		"date" : "2016-05-16",
+		"salles": [
+			{
+				"nom": "Debussy",
+				"seances":[
+					{
+						"titre": "Loving",
+						"realisateur": "Jeff Nichols",
+						"heure": "08:30",
+						"duree": "02:02",
+						"demande": false
+					}
+				]
+			},
+			{
+				"nom": "Lumière",
+				"seances":[
+					{
+						"titre": "Loving",
+						"realisateur": "Jeff Nichols",
+						"heure": "08:30",
+						"duree": "02:02",
+						"demande": false
+					},
+					{
+						"titre": "Loving",
+						"realisateur": "Jeff Nichols",
+						"heure": "11:30",
+						"duree": "02:02",
+						"demande": false
+					},
+					{
+						"titre": null
+					},
+					{
+						"titre": "Paterson",
+						"realisateur": "Jim Jarmush",
+						"heure": "16:00",
+						"duree": "01:53"
+					},	
+					{
+						"titre": "Loving",
+						"realisateur": "Jeff Nichols",
+						"heure": "19:00",
+						"duree": "02:02",
+						"demande": true
+					},
+					{
+						"titre": "Hands of stone",
+						"realisateur": "Jonathan Jakubowicz",
+						"heure": "22:00",
+						"duree": "01:56",
+						"demande": false
+					},
+					{
+						"titre": null
+					}						
+				]
+			}		
+		]
+	},
+	{
+		"date" : "2016-05-17",
+		"salles": [
+			{
+				"nom": "Debussy",
+				"seances":[
+					{
+						"titre": "Julieta",
+						"realisateur": "Pedro Almodovar",
+						"heure": "08:30",
+						"duree": "01:36",
+						"demande": false
+					}
+				]
+			},
+			{
+				"nom": "Lumière",
+				"seances":[
+					{
+						"titre": "Julieta",
+						"realisateur": "Pedro Almodovar",
+						"heure": "08:30",
+						"duree": "01:36",
+						"demande": false
+					},
+					{
+						"titre": "Personal Assistant",
+						"realisateur": "Olivier Assaya",
+						"heure": "11:00",
+						"duree": "01:45",
+						"demande": false
+					},
+					{
+						"titre": "Julieta",
+						"realisateur": "Pedro Almodovar",
+						"heure": "13:30",
+						"duree": "01:36",
+						"demande": false
+					},
+					{
+						"titre": "Aquarius",
+						"realisateur": "Kleben Mendonça Filho",
+						"heure": "16:00",
+						"duree": "02:20"
+					},	
+					{
+						"titre": "Julieta",
+						"realisateur": "Pedro Almodovar",
+						"heure": "19:30",
+						"duree": "01:36",
+						"demande": true
+					},
+					{
+						"titre": "Personal Assistant",
+						"realisateur": "Olivier Assaya",
+						"heure": "22:00",
+						"duree": "01:45",
+						"demande": false
+					},
+					{
+						"titre": null
+					}						
+				]
+			}		
+		]
+	},
+	{
+		"date" : "2016-05-18",
+		"salles": [
+			{
+				"nom": "Debussy",
+				"seances":[
+					{
+						"titre": "La fille inconnue",
+						"realisateur": "Jean-Pierre et Luc Dardenne",
+						"heure": "08:30",
+						"duree": "01:53",
+						"demande": false
+					}
+				]
+			},
+			{
+				"nom": "Lumière",
+				"seances":[
+					{
+						"titre": "La fille inconnue",
+						"realisateur": "Jean-Pierre et Luc Dardenne",
+						"heure": "08:30",
+						"duree": "01:53",
+						"demande": false
+					},
+					{
+						"titre": "Goksung",
+						"realisateur": "Hong Jin Na",
+						"heure": "11:30",
+						"duree": "02:36",
+						"demande": false
+					},
+					{
+						"titre": null
+					},
+					{
+						"titre": "Ma' Rosa",
+						"realisateur": "Brillante Mendoza",
+						"heure": "16:00",
+						"duree": "01:50"
+					},	
+					{
+						"titre": "La fille inconnue",
+						"realisateur": "Jean-Pierre et Luc Dardenne",
+						"heure": "19:00",
+						"duree": "01:53",
+						"demande": true
+					},
+					{
+						"titre": "Goksung",
+						"realisateur": "Hong Jin Na",
+						"heure": "22:00",
+						"duree": "02:36",
+						"demande": false
+					},
+					{
+						"titre": null
+					}						
+				]
+			}		
+		]
+	},
+	{
+		"date" : "2016-05-19",
+		"salles": [
+			{
+				"nom": "Debussy",
+				"seances":[
+					{
+						"titre": "Baccalauréat",
+						"realisateur": "Cristian Mungiu",
+						"heure": "08:30",
+						"duree": "02:07",
+						"demande": false
+					}
+				]
+			},
+			{
+				"nom": "Lumière",
+				"seances":[
+					{
+						"titre": "Baccalauréat",
+						"realisateur": "Cristian Mungiu",
+						"heure": "08:30",
+						"duree": "02:07",
+						"demande": false
+					},
+					{
+						"titre": "Juste la fin du monde",
+						"realisateur": "Xavier Dolan",
+						"heure": "11:30",
+						"duree": "01:35",
+						"demande": false
+					},
+					{
+						"titre": "Baccalauréat",
+						"realisateur": "Cristian Mungiu",
+						"heure": "14:30",
+						"duree": "02:07",
+						"demande": false
+					},
+					{
+						"titre": null
+					},	
+					{
+						"titre": "Baccalauréat",
+						"realisateur": "Cristian Mungiu",
+						"heure": "18:30",
+						"duree": "02:07",
+						"demande": true
+					},
+					{
+						"titre": "Juste la fin du monde",
+						"realisateur": "Xavier Dolan",
+						"heure": "22:00",
+						"duree": "01:35",
+						"demande": true
+					},
+					{
+						"titre": "Gimme danger",
+						"realisateur": "Jim Jarmush",
+						"heure": "23:59",
+						"duree": "01:48",
+						"demande": false
+					}						
+				]
+			}		
+		]
+	},
+	{
+		"date" : "2016-05-20",
+		"salles": [
+			{
+				"nom": "Debussy",
+				"seances":[
+					{
+						"titre": "The last face",
+						"realisateur": "Sean Penn",
+						"heure": "08:30",
+						"duree": "02:11",
+						"demande": false
+					}
+				]
+			},
+			{
+				"nom": "Lumière",
+				"seances":[
+					{
+						"titre": "The last face",
+						"realisateur": "Sean Penn",
+						"heure": "08:30",
+						"duree": "02:11",
+						"demande": false
+					},
+					{
+						"titre": "The neon demon",
+						"realisateur": "Nicolas Winding Refn",
+						"heure": "12:00",
+						"duree": "01:57",
+						"demande": false
+					},
+					{
+						"titre": null
+					},
+					{
+						"titre": "The last face",
+						"realisateur": "Sean Penn",
+						"heure": "15:30",
+						"duree": "02:11",
+						"demande": false
+					},	
+					{
+						"titre": "The last face",
+						"realisateur": "Sean Penn",
+						"heure": "19:00",
+						"duree": "02:11",
+						"demande": true
+					},
+					{
+						"titre": "The neon demon",
+						"realisateur": "Nicolas Winding Refn",
+						"heure": "22:30",
+						"duree": "01:57",
+						"demande": false
+					},
+					{
+						"titre": null
+					}						
+				]
+			}		
+		]
+	}
+]

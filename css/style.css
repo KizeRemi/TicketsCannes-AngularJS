@@ -1,0 +1,93 @@
+.container {
+    width: 1450px;
+    font-size: 12px;
+}
+.date{
+	font-weight: bold;
+	font-size: 14px;
+}
+.bloc_day{
+	width: 100px;
+	text-align: center;
+	position: relative;
+	margin-bottom: 10px;
+	height: 110px;
+}
+span{
+	position: absolute;
+	left: 10px;
+	top: 42px;
+}
+.col{
+	display: inline-block;
+	vertical-align: top;
+}
+.logo{
+	height: 50px;
+}
+h2{
+	margin: 0;
+	font-size: 14px;
+}
+p{
+	height: 35px;
+}
+.bloc{
+	width:155px;
+	height: 110px;
+	margin: 0px 5px 10px 0;
+	padding: 5px;
+}
+.no-movie{
+	background: url('../images/background-pas-de-seances.png') center center no-repeat;
+	padding: 5px;
+}
+.movie{
+	
+}
+.header{
+	background-color: white;
+	text-align: center;
+	color: #ffb500;
+	height: 80px;
+	margin-bottom: 5px;
+}
+.day-header{
+	width:100px;
+}
+.salle-header{
+	margin:0 5px 5px 0;
+	text-align: center;
+	background-color: black;
+	color: gold;
+}
+.salle-header:nth-child(2){
+	width:155px;
+}
+.salle-header:nth-child(3){
+	width:1120px;
+}
+.red-dot{
+	background-color: red;
+	border-radius: 50%;
+	width: 10px;
+	height: 10px;
+	margin:10px auto;
+}
+.reserve{
+	background-color: white;
+	cursor: pointer;
+}
+.en-attente{
+	background-color: #f1c076;
+	cursor: pointer;
+}
+.impossible{
+	background-color: #c7c6c6;
+}
+.bloc-credit{
+	font-size: 22px;
+}
+.full{
+	color:red;
+}
